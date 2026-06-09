@@ -1,7 +1,3 @@
-# 💫 About Me:
-👨‍🎓 I’m currently studying at MUNI FI - Brno<br>🌱 I’m currently learning React<br>☕ Coffee is life
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/2lol555) 
 
